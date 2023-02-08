@@ -32,7 +32,7 @@ Nelan is a hardworking and dedicated student, currently pursuing a degree in inf
 <!-- ![Stats](https://github-readme-stats.vercel.app/api/?username=NelanJoe)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=NelanJoe) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=NelanJoe" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&username=NelanJoe" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=default&hide_border=false&username=NelanJoe" height="150" alt="languages graph"  />
 </div>
 
