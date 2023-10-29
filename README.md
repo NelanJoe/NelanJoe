@@ -34,5 +34,8 @@ Nelan is a hardworking and dedicated student, currently pursuing a degree in inf
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=NelanJoe) -->
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=default&hide_border=false&username=NelanJoe" height="150" alt="languages graph"  />
+<br>
+![](https://raw.githubusercontent.com/haniframadhani/github-stats/main/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/haniframadhani/github-stats/main/generated/languages.svg#gh-dark-mode-only)<br>
 </div>
 
