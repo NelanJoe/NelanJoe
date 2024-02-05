@@ -29,7 +29,7 @@ I'm a hardworking and dedicated student, currently pursuing a degree in informat
 <p align="left">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1567128618/noticon/lj6j7ljgj74zf3ierumh.jpg" width="36" height="36" alt="Prisma ORM" /></a>
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1639528774/noticon/ouggkwymgzlbt4ir8ne0.png" width="36" height="36" alt="Prisma ORM" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
