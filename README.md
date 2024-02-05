@@ -1,10 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nelan
 =============================================================================================================================
 
-<p align="left">
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NelanJoe" alt="NelanJoe - Trophy" /></a> 
-</p>
-
 Student. Developer.
 -------------------
 
