@@ -9,7 +9,7 @@ Nelan is a hardworking and dedicated student, currently pursuing a degree in inf
 * 🌍  I'm based in Bogor, Indonesia
 * ✉️  You can contact me at [nelanjorelat@gmail.com](mailto:nelanjorelat@gmail.com)
 * 🧠  I’m currently learning ReactJS and TypeScript
-* 🤝  I'm open to collaborating on exciting projects as a frontend developer, designer or dev rel.
+* 🤝 I'm open to collaborating on exciting projects as a frontend developer, designer or dev rel.
 
 ### Skills
 
