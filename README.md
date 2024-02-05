@@ -42,11 +42,13 @@ Nelan is a hardworking and dedicated student, currently pursuing a degree in inf
 
 ### Tools
 <p align="left">
+ <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566816336/noticon/prkzlesgukupr1u3v7si.svg" width="36" height="36" alt="VSCode" /></a>
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
  <a href="https://notion.so/" target="_blank" rel="noreferrer">
   <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg" width="36" height="36" alt="Notion" /></a>
  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913419/noticon/xf9bevlrgugi7xj6xkhp.png" width="36" height="36" alt="Postman" /></a>
+  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566914838/noticon/qlfe77nbcvdscm762prm.png" width="36" height="36" alt="Postman" /></a>
 </p>
 
 ### Badges
