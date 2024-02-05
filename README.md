@@ -1,14 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nelan
 =============================================================================================================================
 
-Student. Software Developer.
+Student. Developer.
 -------------------
 
 Nelan is a hardworking and dedicated student, currently pursuing a degree in informatics engineering and is passionate about new technologies.
 
 * 🌍  I'm based in Bogor, Indonesia
 * ✉️  You can contact me at [nelanjorelat@gmail.com](mailto:nelanjorelat@gmail.com)
-* 🧠  I'm learning a Python, Javascript, PHP and Javascript Framework.
+* 🧠  I'm learning a ReactJs & TypeScript
+* 🤝  I'm open to collaborating on exciting projects as a frontend developer, designer or dev rel.
 
 ### Skills
 
@@ -32,6 +33,12 @@ Nelan is a hardworking and dedicated student, currently pursuing a degree in inf
 <a href="https://www.github.com/nelanjoe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="http://www.instagram.com/nelan_17" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/nelan-66973a128" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
+
+### Tools
+<p align="left">
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+ <a href="https://notion.so/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/notion-colored.svg" width="36" height="36" alt="Notion" /></a>
 </p>
 
 ### Badges
