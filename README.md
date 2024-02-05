@@ -52,7 +52,10 @@ Nelan is a hardworking and dedicated student, currently pursuing a degree in inf
 </p>
 
 ### Badges
-#### My Github Stats
+
+<a href="http://www.github.com/nelanjoe">
+<img src="https://github-readme-stats.vercel.app/api?username=NelanJoe&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NelanJoe GitHub stats" />
+</a>
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api/?username=NelanJoe)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=NelanJoe) -->
