@@ -43,7 +43,8 @@ Nelan is a hardworking and dedicated student, currently pursuing a degree in inf
 ### Tools
 <p align="left">
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
- <a href="https://notion.so/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/notion-colored.svg" width="36" height="36" alt="Notion" /></a>
+ <a href="https://notion.so/" target="_blank" rel="noreferrer">
+  <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570106347/noticon/hx52ypkqqdzjdvd8iaid.svg" width="36" height="36" alt="Notion" /></a>
 </p>
 
 ### Badges
