@@ -1,11 +1,11 @@
 <h1 align="center">
- Hello, <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="img"/> My name is Nelan
+ Hello, <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="img"/> I'm Nelan
 </h1>
 <h3 align="center">
  Student. Developer. 
 </h3>
 
-Nelan is a hardworking and dedicated student, currently pursuing a degree in informatics engineering and is passionate about new technologies.
+I'm a hardworking and dedicated student, currently pursuing a degree in informatics engineering and is passionate about new technologies.
 
 * 🌍  I'm based in Bogor, Indonesia
 * ✉️  You can contact me at [nelanjorelat@gmail.com](mailto:nelanjorelat@gmail.com)
