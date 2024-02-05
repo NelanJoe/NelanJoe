@@ -1,10 +1,9 @@
 <h1 align="center">
  Hello, <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="img"/> My name is Nelan
 </h1>
-
-<h2 align="center">
+<h3 align="center">
  Student. Developer. 
-</h2>
+</h3>
 
 Nelan is a hardworking and dedicated student, currently pursuing a degree in informatics engineering and is passionate about new technologies.
 
