@@ -34,14 +34,6 @@ I'm a hardworking and dedicated student, currently pursuing a degree in informat
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
-### Socials
-
-<p align="left"> 
-<a href="https://www.github.com/nelanjoe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<a href="http://www.instagram.com/nelan_17" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/nelan-66973a128" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</p>
-
 ### Tools
 <p align="left">
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
@@ -53,15 +45,19 @@ I'm a hardworking and dedicated student, currently pursuing a degree in informat
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+### Socials
+
+<p align="left"> 
+<a href="https://www.github.com/nelanjoe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="http://www.instagram.com/nelan_17" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/nelan-66973a128" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
+
 ### Badges
 
-<div align="left">
- <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=default&hide_border=false&username=NelanJoe" height="150" alt="languages graph"  />
- </div>
- <div>
+<div align="cemyer">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=default&hide_border=false&username=NelanJoe" height="150" alt="languages graph"  />
    <img src="https://github-readme-stats.vercel.app/api?username=NelanJoe&show_icons=true&hide=contribs&count_private=true" alt="NelanJoe GitHub stats" />
- </div>
 </div>
 
 
