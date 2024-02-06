@@ -59,8 +59,8 @@ I'm a hardworking and dedicated student, currently pursuing a degree in informat
 ### Badges
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=NelanJoe&show_icons=true&hide=contribs&count_private=true" alt="NelanJoe GitHub stats" height="175"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=default&hide_border=false&username=NelanJoe" alt="languages graph"  height="175" />
+   <img src="https://github-readme-stats.vercel.app/api?username=NelanJoe&show_icons=true&hide=contribs&count_private=true" alt="NelanJoe GitHub stats" height="150"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=default&hide_border=false&username=NelanJoe" alt="languages graph"  height="150" />
 </div>
 
 
