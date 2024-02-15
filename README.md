@@ -2,7 +2,7 @@
  Hello, <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="img" width="32" height="32"/> I'm Nelan
 </h1>
 <h3 align="center">
- Student. Developer. 
+Frontend Engineer | Undergraduate Informatics Engineering | Fast Learner 
 </h3>
 
 I'm a hardworking and dedicated student, currently pursuing a degree in informatics engineering and is passionate about new technologies.
