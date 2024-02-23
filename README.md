@@ -14,7 +14,7 @@ I'm a hardworking and dedicated student, currently pursuing a degree in informat
 
 
 <div align="left">
- <h3>Connect With Me</h4>
+ <h3>📱 Connect With Me</h4>
  <p> 
   <a href="http://www.instagram.com/nelan_17" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
   <a href="https://www.linkedin.com/in/nelan-66973a128" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
