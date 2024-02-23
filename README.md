@@ -23,7 +23,7 @@ I'm a hardworking and dedicated student, currently pursuing a degree in informat
 </div>
 
 
-### Skills
+### 💻 Tech Stack
 
 **Frontend**
 <p align="left">
@@ -45,7 +45,7 @@ I'm a hardworking and dedicated student, currently pursuing a degree in informat
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
-### Tools
+### ⚙️ Software & Tools
 <p align="left">
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1568917735/noticon/aeui5qns4zczje6eejpc.png" width="36" height="36" alt="VSCode" /></a>
@@ -56,7 +56,7 @@ I'm a hardworking and dedicated student, currently pursuing a degree in informat
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Badges
+### ✨ Badges
 
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=NelanJoe&show_icons=true&hide=contribs&count_private=true" alt="NelanJoe GitHub stats" height="150"/>
