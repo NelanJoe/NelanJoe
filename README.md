@@ -9,7 +9,7 @@ I'm a hardworking and dedicated student, currently pursuing a degree in informat
 
 * 🌍  I'm based in Bogor, Indonesia
 * ✉️  You can contact me at [nelanjorelat@gmail.com](mailto:nelanjorelat@gmail.com)
-* 🧠  I’m currently learning **NextJs and TypeScript**
+* 🧠  I’m currently learning **VueJs, NextJs and TypeScript**
 * 🤝 I'm open to collaborating on exciting projects as a **frontend developer**, **backend developer** or **dev rel**.
 
 
